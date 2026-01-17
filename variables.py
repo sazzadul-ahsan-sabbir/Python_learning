@@ -1,0 +1,9 @@
+name="sabbir"
+age=24
+height=5.7
+is_student=True
+print(name,age,height,is_student)
+print(type(name))
+print(type(age))
+print(type(height))
+print(type(is_student))
